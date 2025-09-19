@@ -35,7 +35,7 @@ class RAGEvaluationSystem:
     
     def call_rag_model(self, question: str) -> str:
         """
-        TODO: RAG 모델 호출 (임시로 Ollama를 사용하여 답변 생성)
+        TODO: RAG 모델 호출
         TODO: 실제 구현 시 RAG 모델을 호출하여 답변을 받아옴
         """
         
