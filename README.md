@@ -33,7 +33,7 @@
 
 ### 1. 필요 라이브러리 설치
 ```bash
-pip install requests json logging
+pip install -r requirements.txt
 ```
 
 ### 2. Ollama 설치 및 모델 다운로드
